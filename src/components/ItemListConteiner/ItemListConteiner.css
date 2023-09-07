@@ -1,0 +1,7 @@
+.itemListContainer {
+    color: #4D2DB7;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 10vh;
+}
